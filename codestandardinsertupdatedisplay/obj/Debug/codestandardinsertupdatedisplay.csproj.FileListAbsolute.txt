@@ -1,0 +1,7 @@
+C:\.NET Trainings\codestandardinsertupdatedisplay\codestandardinsertupdatedisplay\bin\Debug\codestandardinsertupdatedisplay.exe.config
+C:\.NET Trainings\codestandardinsertupdatedisplay\codestandardinsertupdatedisplay\bin\Debug\codestandardinsertupdatedisplay.exe
+C:\.NET Trainings\codestandardinsertupdatedisplay\codestandardinsertupdatedisplay\bin\Debug\codestandardinsertupdatedisplay.pdb
+C:\.NET Trainings\codestandardinsertupdatedisplay\codestandardinsertupdatedisplay\obj\Debug\codestandardinsertupdatedisplay.csprojAssemblyReference.cache
+C:\.NET Trainings\codestandardinsertupdatedisplay\codestandardinsertupdatedisplay\obj\Debug\codestandardinsertupdatedisplay.csproj.CoreCompileInputs.cache
+C:\.NET Trainings\codestandardinsertupdatedisplay\codestandardinsertupdatedisplay\obj\Debug\codestandardinsertupdatedisplay.exe
+C:\.NET Trainings\codestandardinsertupdatedisplay\codestandardinsertupdatedisplay\obj\Debug\codestandardinsertupdatedisplay.pdb
